@@ -22,11 +22,14 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 
 ---
 1.first ordered list item
+
 2.Another item
 >Unorderd sub-list
+
 3.Actual numbers don't matter,just that it's a number
 >1.Ordered sub-list
 >>2.2ndd
+
 4.And another item.
 > * note 1 
 >> * note 2 
